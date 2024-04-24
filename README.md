@@ -1,1 +1,2 @@
 # GitReset
+Muugii zasaj saijruulaw
